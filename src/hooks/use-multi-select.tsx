@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import { ISelectProps, Option } from "../lib/interfaces";
 
 const defaultStrings = {
-  allItemsAreSelected: "All items are selected.",
+  allItemsAreSelected: "Select Individual Companies.",
   clearSearch: "Clear Search",
   clearSelected: "Clear Selected",
   noOptions: "No options",
